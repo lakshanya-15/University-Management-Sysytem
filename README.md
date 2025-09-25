@@ -1,4 +1,4 @@
-Project Overview
+**Project Overview**
 This University Management System is a Java-based console application that manages students, courses, enrollments, and grading.
 It is designed to demonstrate key Java concepts such as:
 •	OOP principles (Encapsulation, Inheritance, Polymorphism)
